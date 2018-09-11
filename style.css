@@ -6,3 +6,15 @@
   max-height: 400px;
   overflow: auto;
 }
+
+body {
+	background-color: lightblue;
+}
+
+input[type=text] {
+    width: 100%;
+	text-align: center;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    font-size: 13px;
+ 
